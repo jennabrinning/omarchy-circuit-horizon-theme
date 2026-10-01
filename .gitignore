@@ -1,0 +1,20 @@
+# Local drafts and desktop inspection captures
+drafts/
+previews/
+
+# Manual release archives and packaging experiments
+dist/
+tools/package_theme.py
+tools/render_wallpaper.py
+
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+*.swp
+
+# Codex workspace metadata
+.agents/
+.aws/
+.codex/
