@@ -67,12 +67,12 @@ All four wallpapers are **1672 × 941** approved originals. Click an image to op
 
 <table>
   <tr>
-    <td width="50%" align="center"><a href="backgrounds/01-sun.png"><img src="backgrounds/01-sun.png" alt="Large amber-to-coral electronic sun over cyan polygonal mountain ridges" width="100%"></a><br><b>Sun · signal horizon</b><br>Segmented light and warm circuitry.</td>
-    <td width="50%" align="center"><a href="backgrounds/02-moon.png"><img src="backgrounds/02-moon.png" alt="Icy circuit-etched moon above a terraced cyan basin with a warm horizon glow" width="100%"></a><br><b>Moon · lunar circuit</b><br>Crater contours and a quiet amber light spill.</td>
+    <td width="50%" align="center"><a href="backgrounds/01-sun.webp"><img src="backgrounds/01-sun.webp" alt="Large amber-to-coral electronic sun over cyan polygonal mountain ridges" width="100%"></a><br><b>Sun · signal horizon</b><br>Segmented light and warm circuitry.</td>
+    <td width="50%" align="center"><a href="backgrounds/02-moon.webp"><img src="backgrounds/02-moon.webp" alt="Icy circuit-etched moon above a terraced cyan basin with a warm horizon glow" width="100%"></a><br><b>Moon · lunar circuit</b><br>Crater contours and a quiet amber light spill.</td>
   </tr>
   <tr>
-    <td width="50%" align="center"><a href="backgrounds/03-mars.png"><img src="backgrounds/03-mars.png" alt="Copper Mars with etched canyon circuitry and a pale polar cap above a fractured ravine" width="100%"></a><br><b>Mars · copper canyon</b><br>Rust-coloured circuitry above a deep ravine.</td>
-    <td width="50%" align="center"><a href="backgrounds/04-saturn.png"><img src="backgrounds/04-saturn.png" alt="Golden electronic Saturn surrounded by cyan and amber rings above fractured plains and isolated spires" width="100%"></a><br><b>Saturn · orbital lanes</b><br>Luminous rings above open plains and angular spires.</td>
+    <td width="50%" align="center"><a href="backgrounds/03-mars.webp"><img src="backgrounds/03-mars.webp" alt="Copper Mars with etched canyon circuitry and a pale polar cap above a fractured ravine" width="100%"></a><br><b>Mars · copper canyon</b><br>Rust-coloured circuitry above a deep ravine.</td>
+    <td width="50%" align="center"><a href="backgrounds/04-saturn.webp"><img src="backgrounds/04-saturn.webp" alt="Golden electronic Saturn surrounded by cyan and amber rings above fractured plains and isolated spires" width="100%"></a><br><b>Saturn · orbital lanes</b><br>Luminous rings above open plains and angular spires.</td>
   </tr>
 </table>
 
